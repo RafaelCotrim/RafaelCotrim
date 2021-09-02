@@ -1,7 +1,3 @@
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.13.0/devicon.min.css">
-
-<link href="https://languages.abranhe.com/logos.css" rel="stylesheet">
-
 ### Hello, I’m Rafael Cotrim!
 
 - 🇧🇷 Brazilian
@@ -9,8 +5,8 @@
 - Live in [Castlo Branco, Portugal 🇵🇹](https://www.google.com/maps/place/Castelo+Branco/)
 - Currently experimenting with [Rust](https://www.rust-lang.org/)
 - 2021 Goals: 
-    - Graduate ✅
-	- Start masters degree
+    - [x] Graduate
+	- [ ] Start masters degree
 - I have a [published article](https://astesj.com/v06/i04/p38/) about a comparative study of MAC protocols
 - Fun fact: I like to spend my personal time writing and [worldbuilding](https://en.wikipedia.org/wiki/Worldbuilding)!  
 
@@ -22,19 +18,17 @@
 
 ## Languages and tools
 
-- <i class="devicon-github-original colored"></i> Github
-- <i class="devicon-csharp-plain colored"></i> C#
-- <i class="devicon-dot-net-plain colored"></i> .NET 
-- <i class="devicon-dotnetcore-plain colored"></i> .NET Core
-- <i class="devicon-java-plain colored"></i> Java
-- <i class="programming lang-python"></i> Python
-- <i class="devicon-arduino-plain-wordmark colored"></i> Arduino
-- <i class="devicon-c-plain colored"></i> C
-- <i class="devicon-cplusplus-plain colored"></i> C++
-- [OMNeT++](https://omnetpp.org/)
-- <i class="devicon-html5-plain colored"></i> HTML
-- <i class="devicon-css3-plain colored"></i> CSS
-- SQL
-- <i class="devicon-microsoftsqlserver-plain-wordmark colored"></i> SQL Server
-- <i class="devicon-visualstudio-plain colored"></i> Visual Studio
-- <i class="devicon-vscode-plain colored"></i> VSCode
+[<img src="./assets/github.svg" style="width: 48px"></img>](https://github.com/RafaelCotrim)
+[<img src="./assets/cs.svg" style="width: 48px"></img>](https://en.wikipedia.org/wiki/C_Sharp_(programming_language))
+[<img src="./assets/dotnetcore.png" style="width: 48px"></img>](https://dotnet.microsoft.com/)
+[<img src="./assets/java.svg" style="width: 48px"></img>](https://www.java.com/en/)
+[<img src="./assets/python.svg" style="width: 48px"></img>](https://www.python.org/)
+[<img src="./assets/arduino.svg" style="width: 48px"></img>](https://www.arduino.cc/)
+[<img src="./assets/c.svg" style="width: 48px"></img>](https://en.wikipedia.org/wiki/C_(programming_language))
+[<img src="./assets/cpp.svg" style="width: 48px"></img>](https://en.wikipedia.org/wiki/C%2B%2B)
+[<img src="./assets/omnet.png" style="width: 48px"></img>](https://omnetpp.org/)
+[<img src="./assets/html.svg" style="width: 48px"></img>](https://en.wikipedia.org/wiki/HTML)
+[<img src="./assets/css.svg" style="width: 48px"></img>](https://en.wikipedia.org/wiki/CSS)
+[<img src="./assets/sql.svg" style="width: 48px"></img>](https://en.wikipedia.org/wiki/SQL)
+[<img src="./assets/vs.svg" style="width: 48px"></img>](https://visualstudio.microsoft.com/)
+[<img src="./assets/vscode.svg" style="width: 48px"></img>](https://code.visualstudio.com/)
