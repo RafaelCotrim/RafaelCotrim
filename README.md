@@ -6,7 +6,7 @@
 - Currently experimenting with [Rust](https://www.rust-lang.org/)
 - 2021 Goals: 
     - [x] Graduate
-	- [ ] Start masters degree
+    - [x] Start masters degree
 - I have a [published article](https://astesj.com/v06/i04/p38/) about a comparative study of MAC protocols
 - Fun fact: I like to spend my personal time writing and [worldbuilding](https://en.wikipedia.org/wiki/Worldbuilding)!  
 
