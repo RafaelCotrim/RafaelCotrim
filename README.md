@@ -2,7 +2,7 @@
 
 - 🇧🇷 Brazilian
 - Software developer
-- Live in [Castlo Branco, Portugal 🇵🇹](https://www.google.com/maps/place/Castelo+Branco/)
+- I live in [Castlo Branco, Portugal 🇵🇹](https://www.google.com/maps/place/Castelo+Branco/)
 - Currently experimenting with [Rust](https://www.rust-lang.org/)
 - 2021 Goals: 
     - [x] Graduate
