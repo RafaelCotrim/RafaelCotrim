@@ -8,10 +8,6 @@
      - Reading
     - Making games
 - Currently experimenting with [Rust](https://www.rust-lang.org/)
-- 2022 Goals: 
-    - [ ] Finish my worldbuilding  calculator/generator [project](https://github.com/RafaelCotrim/ge13)
-    - [ ] Finish my next scientific article
-    - [ ] Get an Azure certification
 
 ## Scientific Research
 
